@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="animals">
+        <item>Cat</item>
+        <item>Dog</item>
+        <item>Dolphin</item>
+        <item>Hippo</item>
+        <item>Horse</item>
+        <item>Mermaid</item>
+        <item>Panda</item>
+        <item>Penguin</item>
+        <item>Tiger</item>
+        <item>Unicorn</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>This is Cat</item>
+        <item>This is Dog</item>
+        <item>This is Dolphin</item>
+        <item>This is Hippo</item>
+        <item>This is Horse</item>
+        <item>This is Mermaid</item>
+        <item>This is Panda</item>
+        <item>This is Penguin</item>
+        <item>This is Tiger</item>
+        <item>This is Unicorn</item>
+
+
+    </string-array>
+</resources>
